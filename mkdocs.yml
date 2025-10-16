@@ -5,17 +5,17 @@
 INHERIT: ./base.yml
 
 # Project Information
-site_name: "CognitiveArchitectHandbookName"
-site_url: "https://pages.github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir/"
-site_description: "CognitiveArchitectSiteDescription"
-site_author: "CognitiveArchitectSiteAuthor"
+site_name: "test - generated on 20250908 08-20-00"
+site_url: "https://pages.github.ibm.com/harmyko/cogarch_export_test/"
+site_description: "test - generated on 20250908 08-20-00"
+site_author: "harmyko"
 
 # Repository Information
-repo_name: 'CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
-repo_url: 'https://github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
+repo_name: 'harmyko/cogarch_export_test'
+repo_url: 'https://github.ibm.com/harmyko/cogarch_export_test'
 
 # Copyright
-#copyright: <a href="/about/">CognitiveArchitectSiteAuthor</a>.
+#copyright: <a href="/about/">harmyko</a>.
 
 # Customize Handbook Template information visibility
 oic_handbook:
@@ -57,8 +57,8 @@ markdown_extensions:
       repo_url_shortener: true
       repo_url_shorthand: false
       social_url_shorthand: true
-      user: CognitiveArchitectIBMGitHub
-      repo: CognitiveArchitectRepoParent/CognitiveArchitectRepoDir
+      user: harmyko
+      repo: harmyko/cogarch_export_test
   toc:
       permalink: true
       toc_depth: 6
@@ -69,13 +69,13 @@ plugins:
       tags_file: tags.md
 #   # Configure the PDF export plugin - see https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
 #   with-pdf: # This creates a single PDF document for the whole site
-#       author: CognitiveArchitectSiteAuthor
-#       copyright: Copyright &copy; CognitiveArchitectSiteAuthor
+#       author: harmyko
+#       copyright: Copyright &copy; harmyko
 #       cover: true
 #       back_cover: false
 #       #
-#       cover_title: CognitiveArchitectHandbookName
-#       cover_subtitle: CognitiveArchitectSiteDescription
+#       cover_title: test - generated on 20250908 08-20-00
+#       cover_subtitle: test - generated on 20250908 08-20-00
 #       cover_logo: 'theme/logo-ibm-dark.png'
 #       #custom_template_path: TEMPLATES PATH
 #       #
@@ -101,7 +101,7 @@ plugins:
 #       # render_js: true
 #       #headless_chrome_path: headless-chromium
 #       #
-#       output_path: ./pdf/CognitiveArchitectRepoDir.pdf
+#       output_path: ./pdf/cogarch_export_test.pdf
 #       enabled_if_env: ENABLE_PDF_EXPORT
 #       #
 #       debug_html: true

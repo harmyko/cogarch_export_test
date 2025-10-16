@@ -1,3 +1,10 @@
+/*
+ * IBM Confidential
+ * 6949-70F, 6949-80D
+ * © Copyright IBM Corp. 2018, 2024
+ * US Government Users Restricted Rights - Use, duplication or disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
+*/
+
 // let sidebar = document.getElementsByClassName('md-sidebar--primary')[0];
 
 // let backBtn = document.createElement('div');

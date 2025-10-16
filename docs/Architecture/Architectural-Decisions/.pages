@@ -1,0 +1,9 @@
+title: Architectural Decisions
+nav:
+    - Authentication-Mechanism.md
+    - Data-Storage.md
+    - Scalability-Approach.md
+    - Security-Framework.md
+    - Data-Backup-and-Recovery.md
+    - User-Interface.md
+    - Reporting-and-Analytics.md

@@ -1,0 +1,8 @@
+title: Non Functional Requirements
+nav:
+    - Security.md
+    - Scalability.md
+    - Usability.md
+    - Availability.md
+    - Maintainability.md
+    - Regulatory-Compliance.md
